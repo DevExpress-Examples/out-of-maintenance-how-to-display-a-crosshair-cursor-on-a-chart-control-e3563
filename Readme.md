@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CrosshairCursor/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CrosshairCursor/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CrosshairCursor/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CrosshairCursor/MainWindow.xaml))
+<!-- default file list end -->
 # How to display a crosshair cursor on a chart control
 
 
